@@ -1,8 +1,8 @@
 ## 👨🏽‍💻 Olá eu sou o Matheus Ryan
 
-- 📚 Cursando DS e C.Computação
-- 💻 Estudando JavaScript e mais algumas coisas
-- 👦🏽 Aspirante a Dev Front-End
+- 📚 Cursando DS e Engenharia de Software
+- 💻 Estudando Java e mais algumas coisas
+- 👦🏽 Aspirante a Dev Full-Stack
 
 
  <div style="display: inline_block"><br>
