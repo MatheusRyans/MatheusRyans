@@ -60,18 +60,16 @@ https://github.com/Aquinozz/Synapse
 
 ---
 
-## 📊 Estatísticas
+### 📋 Getrin
+Projeto acadêmico desenvolvido com o objetivo de atender necessidades reais de gestão e organização de informações, colocando em prática conceitos de desenvolvimento de software, trabalho em equipe e construção de soluções digitais.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRyan13&layout=compact&theme=transparent
+**Destaques:**
+- Desenvolvimento colaborativo
+- Aplicação de conceitos de engenharia de software
+- Versionamento com Git e GitHub
+- Participação em todas as etapas do desenvolvimento
 
-https://github-readme-stats.vercel.app/api?username=MatheusRyan13&show_icons=true&theme=transparent
-
----
-
-## 📫 Contato
-
-- LinkedIn: www.linkedin.com/in/matheus-ryan-663839283
-- GitHub: github.com/MatheusRyan13
+🔗 https://github.com/diegojbcunha/getrin
 
 ---
 
