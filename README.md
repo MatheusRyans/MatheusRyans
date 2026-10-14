@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação com foco em **Java e Desenvolvimento Back-end**.
 
-Atualmente curso Desenvolvimento de Sistemas e Engenharia de Software, aplicando meus estudos em projetos práticos, desafios técnicos e soluções orientadas a objetos.
+Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Software(UCSAL), aplicando meus estudos em projetos práticos, desafios técnicos e soluções orientadas a objetos.
 
 ---
 
@@ -10,9 +10,8 @@ Atualmente curso Desenvolvimento de Sistemas e Engenharia de Software, aplicando
 
 - 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Software
 - ☕ Focado em desenvolvimento Back-end com Java
-- 📚 Estudando POO, Collections, Lambdas, Streams e Spring Boot
+- 🚀 Membro da Diretoria de Projetos da LAMIT (Liga Acadêmica de Maratona, Inovação e Tecnologia)
 - 💡 Apaixonado por tecnologia e aprendizado contínuo
-- 🎯 Em busca da primeira oportunidade como Desenvolvedor Java
 
 ---
 
