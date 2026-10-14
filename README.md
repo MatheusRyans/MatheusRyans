@@ -15,35 +15,27 @@ Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Soft
 
 ---
 
-## 🛠️ Tecnologias
+## 🏆 Certificações
 
-### Back-end
+<p align="left">
 
-https://skillicons.dev/icons?i=java,spring
+<a href="https://www.credly.com/badges/652ca51e-4908-4cd7-b660-a231fdb34327/public_url">
+  <img src="https://images.credly.com/size/160x160/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="120" alt="AWS Data Engineering"/>
+</a>
 
-### Banco de Dados
+<a href="https://www.credly.com/badges/a3f892e8-7107-478c-bb03-96056cb25fad/public_url">
+  <img src="https://images.credly.com/size/160x160/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="120" alt="AWS Cloud Foundations"/>
+</a>
 
-https://skillicons.dev/icons?i=mysql
+<a href="https://www.credly.com/badges/c3f5f212-8b43-4029-abe1-0a6024e109fe/public_url">
+  <img src="https://images.credly.com/size/160x160/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="120" alt="Cisco Cybersecurity Essentials"/>
+</a>
 
-### Front-end
+<a href="https://www.credly.com/badges/5a7d59fa-e422-4415-851b-3eff9dfa37dd/public_url">
+  <img src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="120" alt="Cisco Cyber Threat Management"/>
+</a>
 
-https://skillicons.dev/icons?i=html,css,js,bootstrap
-
-### Ferramentas
-
-https://skillicons.dev/icons?i=git,github,idea,vscode
-
----
-
-## 📚 Atualmente estudando
-
-- Programação Orientada a Objetos
-- Interfaces e Classes Abstratas
-- Expressões Lambda
-- Stream API
-- Collections Framework
-- SQL
-- Spring Boot
+</p>
 
 ---
 
