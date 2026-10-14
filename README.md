@@ -55,6 +55,9 @@ Uma solução criada em equipe com foco na resolução de um problema real propo
 🔗 Repositório:
 https://github.com/Aquinozz/Synapse
 
+👨🏽‍💻 Projeto Funcionando:
+https://synapse-sooty-delta.vercel.app/
+
 ---
 
 ### 📋 Getrin
@@ -66,7 +69,12 @@ Projeto acadêmico desenvolvido com o objetivo de atender necessidades reais de 
 - Versionamento com Git e GitHub
 - Participação em todas as etapas do desenvolvimento
 
-🔗 https://github.com/diegojbcunha/getrin
+🔗 Repositório: 
+https://github.com/diegojbcunha/getrin
+
+👨🏽‍💻 Projeto Funcionando:
+https://getrin.vercel.app/html/login.html
+
 
 ---
 
