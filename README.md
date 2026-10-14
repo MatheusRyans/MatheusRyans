@@ -1,18 +1,79 @@
-## 👨🏽‍💻 Olá eu sou o Matheus Ryan
+# 👋 Olá, eu sou o Matheus Ryan
 
-- 📚 Cursando DS e Engenharia de Software
-- 💻 Estudando Java e mais algumas coisas
-- 👦🏽 Aspirante a Dev Full-Stack
+Desenvolvedor em formação com foco em **Java e Desenvolvimento Back-end**.
 
+Atualmente curso Desenvolvimento de Sistemas e Engenharia de Software, aplicando meus estudos em projetos práticos, desafios técnicos e soluções orientadas a objetos.
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Botstrap" height="30" width="40"src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap">
-  <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-</div>
-</div>
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Software
+- ☕ Focado em desenvolvimento Back-end com Java
+- 📚 Estudando POO, Collections, Lambdas, Streams e Spring Boot
+- 💡 Apaixonado por tecnologia e aprendizado contínuo
+- 🎯 Em busca da primeira oportunidade como Desenvolvedor Java
+
+---
+
+## 🛠️ Tecnologias
+
+### Back-end
+
+https://skillicons.dev/icons?i=java,spring
+
+### Banco de Dados
+
+https://skillicons.dev/icons?i=mysql
+
+### Front-end
+
+https://skillicons.dev/icons?i=html,css,js,bootstrap
+
+### Ferramentas
+
+https://skillicons.dev/icons?i=git,github,idea,vscode
+
+---
+
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Interfaces e Classes Abstratas
+- Expressões Lambda
+- Stream API
+- Collections Framework
+- SQL
+- Spring Boot
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧠 Synapse
+
+Projeto desenvolvido durante o Hackathon do SENAI CIMATEC.
+
+Uma solução criada em equipe com foco na resolução de um problema real proposto durante a competição, envolvendo desenvolvimento de software, colaboração entre participantes e aplicação prática de conceitos de programação.
+
+🔗 Repositório:
+https://github.com/Aquinozz/Synapse
+
+---
+
+## 📊 Estatísticas
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRyan13&layout=compact&theme=transparent
+
+https://github-readme-stats.vercel.app/api?username=MatheusRyan13&show_icons=true&theme=transparent
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/matheus-ryan-663839283
+- GitHub: github.com/MatheusRyan13
+
+---
+
+> "Transformando aprendizado em projetos e projetos em experiência."
