@@ -15,6 +15,13 @@ Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Soft
 
 ---
 
+## 🛠️ Tecnologias
+
+<p align="center">
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,supabase,css,html,js,ts,nodejs,angular,bootstrap,aws,bash,arduino,git,github,vercel,figma&theme=light)](https://skillicons.dev)
+</p>
+
+---
 ## 🏆 Certificações
 
 <p align="left">
