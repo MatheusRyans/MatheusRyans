@@ -10,7 +10,7 @@ Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Soft
 
 - 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Software
 - ☕ Focado em desenvolvimento Back-end com Java
-- 🚀 Membro da Diretoria de Projetos da LAMIT (Liga Acadêmica de Maratona, Inovação e Tecnologia)
+- 🚀 Membro da Diretoria de Projetos da [LAMIT ](https://www.instagram.com/lamit.ucsal/)(Liga Acadêmica de Maratona, Inovação e Tecnologia) 
 - 💡 Apaixonado por tecnologia e aprendizado contínuo
 
 ---
