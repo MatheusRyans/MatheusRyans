@@ -49,7 +49,7 @@ Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Soft
 ### 🧠 Synapse
 
 Projeto desenvolvido durante o Hackathon do SENAI CIMATEC.
-### 🏆PROJETO VENCEDOR DO NO QUESITO DE INOVAÇÃO NO SETOR INDUSTRIAL
+### 🏆PROJETO DESTAQUE NO QUESITO DE INOVAÇÃO NO SETOR INDUSTRIAL
 
 Uma solução criada em equipe com foco na resolução de um problema real proposto durante a competição, envolvendo desenvolvimento de software, colaboração entre participantes e aplicação prática de conceitos de programação.
 
