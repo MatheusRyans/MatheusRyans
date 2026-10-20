@@ -62,7 +62,7 @@ https://synapse-sooty-delta.vercel.app/
 <p align="left">
 
 <a href="https://www.credly.com/badges/652ca51e-4908-4cd7-b660-a231fdb34327/public_url">
-  <img width="790" height="562" alt="Certificado PoweTechHackathon" src="https://github.com/user-attachments/assets/8cb3c4b6-20ab-4464-a69e-d4719445a316" />
+  <img width="385" height="281" alt="Certificado PoweTechHackathon" src="https://github.com/user-attachments/assets/8cb3c4b6-20ab-4464-a69e-d4719445a316" />
 </a>
 
 ---
