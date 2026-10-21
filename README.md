@@ -19,14 +19,6 @@
       >
     </picture>
   </a>
-
-  <img
-    src="<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/16b2e5a7-f6ba-4252-aba2-3948c9876674" />
-)"
-    alt="profile-icon"
-    align="right"
-    width="26%"
-  >
 </p>
 
 <p align="left">
@@ -35,10 +27,8 @@
   Membro da Diretoria de Projetos da
   <a href="https://www.instagram.com/lamit.ucsal/" target="_blank">
     LAMIT 
-  </a> (Liga Acadêmica de Maratona, Inovação e Tecnologia)
-
-  <br>
-
+  </a>  (Liga Acadêmica de Maratona, Inovação e Tecnologia)
+  
   Apaixonado por IA e tudo que ela pode facilitar na nossa vida 
 </p>
 ---
@@ -114,7 +104,7 @@ https://getrin.vercel.app/html/login.html
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusRyans/MatheusRyans/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusRyans/MatheusRyans/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.comMatheusRyans/MatheusRyans/output/pacman-contribution-graph.svg">
 </picture>
