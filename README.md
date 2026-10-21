@@ -85,4 +85,8 @@ https://getrin.vercel.app/html/login.html
 
 ---
 
-> "Transformando aprendizado em projetos e projetos em experiência."
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegojbcunha/diegojbcunha/output/pacman-contribution-graph.svg">
+</picture>
