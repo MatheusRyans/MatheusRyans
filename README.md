@@ -1,15 +1,48 @@
-# 👋 Olá, eu sou o Matheus Ryan
+<br>
+<img src="assets/title.svg" alt="title" width="100%" align="center">
+<br>
 
-Desenvolvedor em formação com foco em **Java e Desenvolvimento Back-end**.
+<p>
+  <a align="left" href="https://github.com/MatheusRyans" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
+      >
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=38BDAE&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=628EDA&style=for-the-badge&logo=GitHub"
+      >
+      <img
+        src="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
+        alt="Overview Badge"
+      >
+    </picture>
+  </a>
 
-Atualmente curso Desenvolvimento de Sistemas(SENAI CIMATEC) e Engenharia de Software(UCSAL), aplicando meus estudos em projetos práticos, desafios técnicos e soluções orientadas a objetos.
+  <img
+    src="https://avatars.githubusercontent.com/u/119681244?v=4"
+    alt="profile-icon"
+    align="right"
+    width="26%"
+  >
+</p>
 
+<p align="left">
+  Estudante de Desenvolvimento de Sistemas e Engenharia de Software 🚀
+
+  Membro da Diretoria de Projetos da
+  <a href="https://www.instagram.com/lamit.ucsal/" target="_blank">
+    LAMIT (Liga Acadêmica de Maratona, Inovação e Tecnologia)
+  </a>
+
+  <br><br>
+
+  I have a great interest in Linux (I use Arch, btw), terminal automation,
+  cybersecurity, cloud computing, and machine learning!
+</p>
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Software
-- ☕ Focado em desenvolvimento Back-end com Java
 - 🚀 Membro da Diretoria de Projetos da [LAMIT ](https://www.instagram.com/lamit.ucsal/)(Liga Acadêmica de Maratona, Inovação e Tecnologia) 
 - 💡 Apaixonado por tecnologia e aprendizado contínuo
 
