@@ -21,7 +21,7 @@
   </a>
 
   <img
-    src="https://avatars.githubusercontent.com/u/119681244?v=4"
+    src="[https://avatars.githubusercontent.com/u/119681244?v=4](https://avatars.githubusercontent.com/u/136370498?v=4&size=64)"
     alt="profile-icon"
     align="right"
     width="26%"
