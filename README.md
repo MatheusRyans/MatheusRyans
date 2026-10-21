@@ -21,7 +21,8 @@
   </a>
 
   <img
-    src="[https://avatars.githubusercontent.com/u/119681244?v=4](https://avatars.githubusercontent.com/u/136370498?v=4&size=64)"
+    src="<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/16b2e5a7-f6ba-4252-aba2-3948c9876674" />
+)"
     alt="profile-icon"
     align="right"
     width="26%"
@@ -29,14 +30,14 @@
 </p>
 
 <p align="left">
-  Estudante de Desenvolvimento de Sistemas e Engenharia de Software 🚀
+  Estudante de Desenvolvimento de Sistemas e Engenharia de Software 
 
   Membro da Diretoria de Projetos da
   <a href="https://www.instagram.com/lamit.ucsal/" target="_blank">
-    LAMIT (Liga Acadêmica de Maratona, Inovação e Tecnologia)
-  </a>
+    LAMIT 
+  </a> (Liga Acadêmica de Maratona, Inovação e Tecnologia)
 
-  <br><br>
+  <br>
 
   Apaixonado por IA e tudo que ela pode facilitar na nossa vida 
 </p>
