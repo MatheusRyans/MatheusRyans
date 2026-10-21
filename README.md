@@ -1,5 +1,5 @@
 <br>
-<img src="assets/title.svg" alt="title" width="100%" align="center">
+<h1 align="center">Hello World!!</h1>
 <br>
 
 <p>
@@ -7,14 +7,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
+        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=MatheusRyans%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
       >
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=38BDAE&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=628EDA&style=for-the-badge&logo=GitHub"
+        srcset="https://img.shields.io/static/v1?label=Overview&labelColor=38BDAE&message=MatheusRyans%20%F0%9F%87%A7%F0%9F%87%B7&color=628EDA&style=for-the-badge&logo=GitHub"
       >
       <img
-        src="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=Dhekki%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
+        src="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=MatheusRyans%20%F0%9F%87%A7%F0%9F%87%B7&color=003DA5&style=for-the-badge&logo=GitHub"
         alt="Overview Badge"
       >
     </picture>
@@ -38,14 +38,8 @@
 
   <br><br>
 
-  I have a great interest in Linux (I use Arch, btw), terminal automation,
-  cybersecurity, cloud computing, and machine learning!
+  Apaixonado por IA e tudo que ela pode facilitar na nossa vida 
 </p>
----
-
-- 🚀 Membro da Diretoria de Projetos da [LAMIT ](https://www.instagram.com/lamit.ucsal/)(Liga Acadêmica de Maratona, Inovação e Tecnologia) 
-- 💡 Apaixonado por tecnologia e aprendizado contínuo
-
 ---
 
 ## 🛠️ Tecnologias
