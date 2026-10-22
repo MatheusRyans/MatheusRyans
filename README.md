@@ -31,8 +31,8 @@
   
   Apaixonado por IA e tudo que ela pode facilitar na nossa vida 
 </p>
----
 
+---
 ## 🛠️ Tecnologias
 
  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,supabase,css,html,js,ts,nodejs,angular,bootstrap,aws,bash,arduino,git,github,vercel,figma&theme=light)](https://skillicons.dev)
