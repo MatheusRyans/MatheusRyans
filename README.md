@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  Estudante de Desenvolvimento de Sistemas e Engenharia de Software 
+  Estudante de Desenvolvimento de Software e Engenharia de Software 
 
   Membro da Diretoria de Projetos da
   <a href="https://www.instagram.com/lamit.ucsal/" target="_blank">
