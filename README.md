@@ -66,11 +66,11 @@
 
 ### 🌍 AIneedHealth
 
-### 🏆PROJETO FINALISTA DA ETAPA REGIONAL do NASA SPACE APPS CHALLENGE.
+## 🏆PROJETO FINALISTA DA ETAPA REGIONAL do NASA SPACE APPS CHALLENGE.
 
 ## Challenge: Create Health Monitoring Software for Astronauts on Space Missions
 
-# Objectives
+### Objectives
 
 Your challenge is to create a visual tool that helps astronauts assess their own health during space missions and provides guidance on treatments and health improvements. You may consider gathering data from the user through any kind of input—keyboard text, mouse clicks, or camera images, for example. Any kind of data can be used, as long as it represents a health indicator, such as blood sugar levels in mg/dL or ultrasound images.
 
@@ -95,7 +95,7 @@ https://aineedhealth.vercel.app/
 ### 🧠 Synapse
 
 Projeto desenvolvido durante o Hackathon do SENAI CIMATEC.
-### 🏆PROJETO DESTAQUE NO QUESITO "INOVAÇÃO NO SETOR INDUSTRIAL".
+## 🏆PROJETO DESTAQUE NO QUESITO "INOVAÇÃO NO SETOR INDUSTRIAL".
 
 Uma solução criada em equipe com foco na resolução de um problema real proposto durante a competição, envolvendo desenvolvimento de software, colaboração entre participantes e aplicação prática de conceitos de programação.
 
