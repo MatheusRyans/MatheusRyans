@@ -95,7 +95,7 @@ https://aineedhealth.vercel.app/
 ### 🧠 Synapse
 
 Projeto desenvolvido durante o Hackathon do SENAI CIMATEC.
-## 🏆PROJETO DESTAQUE NO QUESITO "INOVAÇÃO NO SETOR INDUSTRIAL".
+## 🏆PEMIADO COMO DESTAQUE NO QUESITO "INOVAÇÃO NO SETOR INDUSTRIAL".
 
 Uma solução criada em equipe com foco na resolução de um problema real proposto durante a competição, envolvendo desenvolvimento de software, colaboração entre participantes e aplicação prática de conceitos de programação.
 
