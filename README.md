@@ -87,7 +87,7 @@ https://aineedhealth.vercel.app/
 <p align="left">
 
 <a href="">
- <img width="715" height="490" alt="Captura de tela certificado nasa" src="https://github.com/user-attachments/assets/5b99c212-ad56-4836-95ac-e11a5f0ad255" />
+ <img width="385" height="281" alt="Captura de tela certificado nasa" src="https://github.com/user-attachments/assets/5b99c212-ad56-4836-95ac-e11a5f0ad255" />
 </a>
 
 ---
