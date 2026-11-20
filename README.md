@@ -64,12 +64,42 @@
 
 ## 🚀 Projetos em Destaque
 
+### 🌍 AIneedHealth
+
+Projeto desenvolvido durante o Hackathon NASA SPACE APPS CHALLENGE.
+### 🏆PROJETO FINALISTA DA ETAPA REGIONAL.
+
+## Challenge: Create Health Monitoring Software for Astronauts on Space Missions
+
+## Objectives
+
+Your challenge is to create a visual tool that helps astronauts assess their own health during space missions and provides guidance on treatments and health improvements. You may consider gathering data from the user through any kind of input—keyboard text, mouse clicks, or camera images, for example. Any kind of data can be used, as long as it represents a health indicator, such as blood sugar levels in mg/dL or ultrasound images.
+
+You can use NASA’s Human Research Program resources, along with the publicly available resources from other space agencies, to understand how spaceflight hazards affect human health, and to decide which indicators are useful and how they can support a quick assessment. Which measurements can be performed in space? Why is an exam needed? How do spaceflight hazards affect these health indicators? When might a result warrant attention from the crew or from flight surgeons on the ground? What actions can be taken to prevent a critical health condition? These are questions worth considering as you develop your solution.
+
+User interface design plays an important role in presenting metrics and diagnosis clearly. You may consider taking advantage of animations and interactivity to present the information. For example, the software could display a human figure where each part of the body is clickable and displays information about its function and health status.
+
+🔗 Repositório:
+https://github.com/MatheusRyans/Nasa-Space-Apps-2026
+
+👨🏽‍💻 Projeto Funcionando:
+https://aineedhealth.vercel.app/
+
+<p align="left">
+
+<a href="">
+ <img width="715" height="490" alt="Captura de tela certificado nasa" src="https://github.com/user-attachments/assets/5b99c212-ad56-4836-95ac-e11a5f0ad255" />
+</a>
+
+---
+
 ### 🧠 Synapse
 
 Projeto desenvolvido durante o Hackathon do SENAI CIMATEC.
 ### 🏆PROJETO DESTAQUE NO QUESITO "INOVAÇÃO NO SETOR INDUSTRIAL".
 
 Uma solução criada em equipe com foco na resolução de um problema real proposto durante a competição, envolvendo desenvolvimento de software, colaboração entre participantes e aplicação prática de conceitos de programação.
+
 
 🔗 Repositório:
 https://github.com/Aquinozz/Synapse
